@@ -1,2 +1,3 @@
+include ':001_ValueAnimator'
 include ':app'
 rootProject.name = "Property_Animation"
